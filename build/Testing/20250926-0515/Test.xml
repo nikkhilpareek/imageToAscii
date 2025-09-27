@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-c++"
+	BuildStamp="20250926-0515-Experimental"
+	Name="Nikhils-MacBook-Air.local"
+	Generator="ctest-4.1.0-rc4"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="14.0.0.14000029"
+	OSName="macOS"
+	Hostname="Nikhils-MacBook-Air.local"
+	OSRelease="12.7.4"
+	OSVersion="21H1123"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="61"
+	ModelName="Intel(R) Core(TM) i5-5350U CPU @ 1.80GHz"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="1024"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="1800"
+	>
+	<Testing>
+		<StartDateTime>Sep 27 20:01 IST</StartDateTime>
+		<StartTestTime>1758983477</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 27 20:01 IST</EndDateTime>
+		<EndTestTime>1758983477</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

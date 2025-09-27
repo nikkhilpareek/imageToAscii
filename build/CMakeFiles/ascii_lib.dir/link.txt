@@ -1,0 +1,2 @@
+/usr/bin/ar qc libascii_lib.a CMakeFiles/ascii_lib.dir/src/ascii_converter.cpp.o CMakeFiles/ascii_lib.dir/src/ascii_reverse.cpp.o
+/usr/bin/ranlib libascii_lib.a
