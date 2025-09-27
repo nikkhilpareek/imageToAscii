@@ -131,15 +131,3 @@ char Palette::map(unsigned char v) const {
 }
 ```
 
-## Contributing
-Planned guidelines (future): code style (clang-format), tests required for new features, PR template.
-Suggestions & feature requests welcome via Issues.
-
-## License
-Choose a permissive license (MIT / Apache-2.0). Add a `LICENSE` file before publishing.
-
-## Attribution / Inspiration
-Classic ASCII art techniques; OpenCV used for image loading, color space transforms, resizing.
-
----
-Feel free to open an issue or PR for any feature on the roadmap.
